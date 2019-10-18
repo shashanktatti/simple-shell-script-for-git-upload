@@ -1,0 +1,1 @@
+# simple-shell-script-for-git-upload
